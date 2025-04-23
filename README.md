@@ -124,7 +124,3 @@ The user instantly knows what to fix—without needing to guess or troubleshoot 
 ## 📬 Questions or Feedback?
 
 This is an active project in development. If you're testing the prototype or want to contribute, feel free to reach out or open a GitHub issue.
-
----
-
-Built with ❤️ for fast iteration and smarter no-code AI workflows.
